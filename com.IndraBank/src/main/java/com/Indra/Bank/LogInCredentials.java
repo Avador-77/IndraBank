@@ -4,23 +4,7 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 public class LogInCredentials {
 
-//	private static String userName, pin;
-//
-//	public String getUserName() {
-//		return userName;
-//	}
-//
-//	public void setUserName(String userName) {
-//		LogInCredentials.userName = userName;
-//	}
-//
-//	public String getPin() {
-//		return pin;
-//	}
-//
-//	public void setPin(String pin) {
-//		LogInCredentials.pin = pin;
-//	}
+
 
 	public void generator(RegForm rgf) throws InterruptedException {
 		
