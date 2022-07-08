@@ -13,7 +13,7 @@ public class RunApp {
 		Scanner input = new Scanner(System.in);
 
 		System.out.println(
-				"\t\t\t\t\t\t\t**** WELCOME TO INDIRA BANK OF INDIA ****\n\t\t\t\t\t\t\t     -------------------------------");
+				"\t\t\t\t\t\t**** WELCOME TO INDIRA BANK OF INDIA ****\n\t\t\t\t\t\t     -------------------------------");
 
 		System.out.println("\n\n\t\t\t\tA. New Customer\t\t\t\t\t\t\tB. Existing Customer");
 
